@@ -21,6 +21,7 @@ public class Asal
 					break;
 				}
 			}
+			
 			if(asal) 
 			{
 				System.out.println(i + " ");
